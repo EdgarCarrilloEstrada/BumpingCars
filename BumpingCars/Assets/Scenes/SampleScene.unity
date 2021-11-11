@@ -301,7 +301,7 @@ GameObject:
   - component: {fileID: 35158031}
   m_Layer: 0
   m_Name: barrier (29)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -432,7 +432,7 @@ GameObject:
   - component: {fileID: 43208694}
   m_Layer: 0
   m_Name: barrier (4)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -563,7 +563,7 @@ GameObject:
   - component: {fileID: 58623488}
   m_Layer: 0
   m_Name: barrier (48)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -694,7 +694,7 @@ GameObject:
   - component: {fileID: 64129978}
   m_Layer: 0
   m_Name: barrier (57)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -825,7 +825,7 @@ GameObject:
   - component: {fileID: 85537201}
   m_Layer: 0
   m_Name: barrier (13)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -956,7 +956,7 @@ GameObject:
   - component: {fileID: 91708785}
   m_Layer: 0
   m_Name: barrier (82)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1087,7 +1087,7 @@ GameObject:
   - component: {fileID: 115548294}
   m_Layer: 0
   m_Name: barrier (89)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1218,7 +1218,7 @@ GameObject:
   - component: {fileID: 132437937}
   m_Layer: 0
   m_Name: barrier (120)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1349,7 +1349,7 @@ GameObject:
   - component: {fileID: 142794392}
   m_Layer: 0
   m_Name: barrier (83)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1480,7 +1480,7 @@ GameObject:
   - component: {fileID: 145508695}
   m_Layer: 0
   m_Name: barrier (84)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1611,7 +1611,7 @@ GameObject:
   - component: {fileID: 145564716}
   m_Layer: 0
   m_Name: barrier (73)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1742,7 +1742,7 @@ GameObject:
   - component: {fileID: 167061790}
   m_Layer: 0
   m_Name: barrier (77)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1873,7 +1873,7 @@ GameObject:
   - component: {fileID: 176224382}
   m_Layer: 0
   m_Name: barrier (38)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2004,7 +2004,7 @@ GameObject:
   - component: {fileID: 217028743}
   m_Layer: 0
   m_Name: barrier (97)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2135,7 +2135,7 @@ GameObject:
   - component: {fileID: 232825312}
   m_Layer: 0
   m_Name: barrier (99)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2339,7 +2339,7 @@ GameObject:
   - component: {fileID: 258088136}
   m_Layer: 0
   m_Name: barrier (100)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2470,7 +2470,7 @@ GameObject:
   - component: {fileID: 269571287}
   m_Layer: 0
   m_Name: barrier (35)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2601,7 +2601,7 @@ GameObject:
   - component: {fileID: 289719837}
   m_Layer: 0
   m_Name: barrier (76)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2732,7 +2732,7 @@ GameObject:
   - component: {fileID: 290666409}
   m_Layer: 0
   m_Name: barrier (58)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2863,7 +2863,7 @@ GameObject:
   - component: {fileID: 296939716}
   m_Layer: 0
   m_Name: barrier (71)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2994,7 +2994,7 @@ GameObject:
   - component: {fileID: 319562290}
   m_Layer: 0
   m_Name: barrier (23)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3207,7 +3207,7 @@ GameObject:
   - component: {fileID: 350327158}
   m_Layer: 0
   m_Name: barrier (2)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3338,7 +3338,7 @@ GameObject:
   - component: {fileID: 354757387}
   m_Layer: 0
   m_Name: barrier
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3469,7 +3469,7 @@ GameObject:
   - component: {fileID: 370795678}
   m_Layer: 0
   m_Name: barrier (56)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3600,7 +3600,7 @@ GameObject:
   - component: {fileID: 382823618}
   m_Layer: 0
   m_Name: barrier (70)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3731,7 +3731,7 @@ GameObject:
   - component: {fileID: 386703840}
   m_Layer: 0
   m_Name: barrier (41)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3862,7 +3862,7 @@ GameObject:
   - component: {fileID: 394193698}
   m_Layer: 0
   m_Name: barrier (93)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3993,7 +3993,7 @@ GameObject:
   - component: {fileID: 395371579}
   m_Layer: 0
   m_Name: barrier (54)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4124,7 +4124,7 @@ GameObject:
   - component: {fileID: 396693644}
   m_Layer: 0
   m_Name: barrier (112)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4255,7 +4255,7 @@ GameObject:
   - component: {fileID: 414483454}
   m_Layer: 0
   m_Name: barrier (3)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4386,7 +4386,7 @@ GameObject:
   - component: {fileID: 415267864}
   m_Layer: 0
   m_Name: barrier (69)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4517,7 +4517,7 @@ GameObject:
   - component: {fileID: 424598045}
   m_Layer: 0
   m_Name: barrier (118)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4648,7 +4648,7 @@ GameObject:
   - component: {fileID: 432348789}
   m_Layer: 0
   m_Name: barrier (86)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4779,7 +4779,7 @@ GameObject:
   - component: {fileID: 438976632}
   m_Layer: 0
   m_Name: barrier (19)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4910,7 +4910,7 @@ GameObject:
   - component: {fileID: 463462645}
   m_Layer: 0
   m_Name: barrier (103)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5041,7 +5041,7 @@ GameObject:
   - component: {fileID: 463965203}
   m_Layer: 0
   m_Name: barrier (62)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5172,7 +5172,7 @@ GameObject:
   - component: {fileID: 477064018}
   m_Layer: 0
   m_Name: barrier (91)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5303,7 +5303,7 @@ GameObject:
   - component: {fileID: 503169642}
   m_Layer: 0
   m_Name: barrier (30)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5434,7 +5434,7 @@ GameObject:
   - component: {fileID: 504712785}
   m_Layer: 0
   m_Name: barrier (44)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5565,7 +5565,7 @@ GameObject:
   - component: {fileID: 505996708}
   m_Layer: 0
   m_Name: barrier (15)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5943,7 +5943,7 @@ GameObject:
   - component: {fileID: 531412496}
   m_Layer: 0
   m_Name: barrier (36)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6074,7 +6074,7 @@ GameObject:
   - component: {fileID: 561287841}
   m_Layer: 0
   m_Name: barrier (65)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6205,7 +6205,7 @@ GameObject:
   - component: {fileID: 567380521}
   m_Layer: 0
   m_Name: barrier (34)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6336,7 +6336,7 @@ GameObject:
   - component: {fileID: 593915946}
   m_Layer: 0
   m_Name: barrier (8)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6467,7 +6467,7 @@ GameObject:
   - component: {fileID: 595105106}
   m_Layer: 0
   m_Name: barrier (88)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6598,7 +6598,7 @@ GameObject:
   - component: {fileID: 616503174}
   m_Layer: 0
   m_Name: barrier (92)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6729,7 +6729,7 @@ GameObject:
   - component: {fileID: 629679990}
   m_Layer: 0
   m_Name: barrier (81)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6860,7 +6860,7 @@ GameObject:
   - component: {fileID: 631652602}
   m_Layer: 0
   m_Name: barrier (72)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6991,7 +6991,7 @@ GameObject:
   - component: {fileID: 649470655}
   m_Layer: 0
   m_Name: barrier (75)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7122,7 +7122,7 @@ GameObject:
   - component: {fileID: 713001224}
   m_Layer: 0
   m_Name: barrier (32)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7253,7 +7253,7 @@ GameObject:
   - component: {fileID: 723178510}
   m_Layer: 0
   m_Name: barrier (55)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7384,7 +7384,7 @@ GameObject:
   - component: {fileID: 753585925}
   m_Layer: 0
   m_Name: barrier (5)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7515,7 +7515,7 @@ GameObject:
   - component: {fileID: 756546577}
   m_Layer: 0
   m_Name: barrier (22)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7646,7 +7646,7 @@ GameObject:
   - component: {fileID: 758977822}
   m_Layer: 0
   m_Name: barrier (1)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7777,7 +7777,7 @@ GameObject:
   - component: {fileID: 776432924}
   m_Layer: 0
   m_Name: barrier (67)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7908,7 +7908,7 @@ GameObject:
   - component: {fileID: 790379778}
   m_Layer: 0
   m_Name: barrier (80)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8039,7 +8039,7 @@ GameObject:
   - component: {fileID: 809230400}
   m_Layer: 0
   m_Name: barrier (116)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8170,7 +8170,7 @@ GameObject:
   - component: {fileID: 813820878}
   m_Layer: 0
   m_Name: barrier (59)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8383,7 +8383,7 @@ GameObject:
   - component: {fileID: 840084170}
   m_Layer: 0
   m_Name: barrier (47)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8596,7 +8596,7 @@ GameObject:
   - component: {fileID: 922449135}
   m_Layer: 0
   m_Name: barrier (109)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8727,7 +8727,7 @@ GameObject:
   - component: {fileID: 930555263}
   m_Layer: 0
   m_Name: barrier (7)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8858,7 +8858,7 @@ GameObject:
   - component: {fileID: 946260670}
   m_Layer: 0
   m_Name: barrier (114)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8989,7 +8989,7 @@ GameObject:
   - component: {fileID: 948441738}
   m_Layer: 0
   m_Name: barrier (39)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9202,7 +9202,7 @@ GameObject:
   - component: {fileID: 960009340}
   m_Layer: 0
   m_Name: barrier (17)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9333,7 +9333,7 @@ GameObject:
   - component: {fileID: 971606984}
   m_Layer: 0
   m_Name: barrier (111)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9537,7 +9537,7 @@ GameObject:
   - component: {fileID: 999497108}
   m_Layer: 0
   m_Name: barrier (94)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9668,7 +9668,7 @@ GameObject:
   - component: {fileID: 1041942262}
   m_Layer: 0
   m_Name: barrier (68)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9799,7 +9799,7 @@ GameObject:
   - component: {fileID: 1046659746}
   m_Layer: 0
   m_Name: barrier (106)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9930,7 +9930,7 @@ GameObject:
   - component: {fileID: 1054655170}
   m_Layer: 0
   m_Name: barrier (52)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10061,7 +10061,7 @@ GameObject:
   - component: {fileID: 1085382258}
   m_Layer: 0
   m_Name: barrier (108)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10244,7 +10244,7 @@ GameObject:
   - component: {fileID: 1104426892}
   m_Layer: 0
   m_Name: barrier (85)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10375,7 +10375,7 @@ GameObject:
   - component: {fileID: 1134257671}
   m_Layer: 0
   m_Name: barrier (74)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10506,7 +10506,7 @@ GameObject:
   - component: {fileID: 1182972354}
   m_Layer: 0
   m_Name: barrier (53)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10764,7 +10764,7 @@ GameObject:
   - component: {fileID: 1198467497}
   m_Layer: 0
   m_Name: barrier (63)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10977,7 +10977,7 @@ GameObject:
   - component: {fileID: 1224700799}
   m_Layer: 0
   m_Name: barrier (6)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11181,7 +11181,7 @@ GameObject:
   - component: {fileID: 1268486446}
   m_Layer: 0
   m_Name: barrier (49)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11312,7 +11312,7 @@ GameObject:
   - component: {fileID: 1296349691}
   m_Layer: 0
   m_Name: barrier (27)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11443,7 +11443,7 @@ GameObject:
   - component: {fileID: 1308928814}
   m_Layer: 0
   m_Name: barrier (102)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11574,7 +11574,7 @@ GameObject:
   - component: {fileID: 1315873937}
   m_Layer: 0
   m_Name: barrier (14)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11705,7 +11705,7 @@ GameObject:
   - component: {fileID: 1323380309}
   m_Layer: 0
   m_Name: barrier (40)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11836,7 +11836,7 @@ GameObject:
   - component: {fileID: 1325166684}
   m_Layer: 0
   m_Name: barrier (96)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12071,7 +12071,7 @@ GameObject:
   - component: {fileID: 1366116236}
   m_Layer: 0
   m_Name: barrier (117)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12202,7 +12202,7 @@ GameObject:
   - component: {fileID: 1366309624}
   m_Layer: 0
   m_Name: barrier (113)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12333,6 +12333,8 @@ GameObject:
   - component: {fileID: 1374429745}
   - component: {fileID: 1374429744}
   - component: {fileID: 1374429746}
+  - component: {fileID: 1374429747}
+  - component: {fileID: 1374429748}
   m_Layer: 0
   m_Name: F1_car04
   m_TagString: Untagged
@@ -12470,6 +12472,114 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 0.00000023841858}
   m_Size: {x: 1.4999998, y: 2.4999998}
   m_Direction: 0
+--- !u!82 &1374429747
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1374429740}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: b595c2d43ca13414c91b3feea163f327, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 0.67
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!114 &1374429748
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1374429740}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb528cfc50612d54c8d12717df1bc1ec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1377447429
 GameObject:
   m_ObjectHideFlags: 0
@@ -12484,7 +12594,7 @@ GameObject:
   - component: {fileID: 1377447430}
   m_Layer: 0
   m_Name: barrier (98)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12615,7 +12725,7 @@ GameObject:
   - component: {fileID: 1385133167}
   m_Layer: 0
   m_Name: barrier (87)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12746,7 +12856,7 @@ GameObject:
   - component: {fileID: 1386681665}
   m_Layer: 0
   m_Name: barrier (104)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12877,7 +12987,7 @@ GameObject:
   - component: {fileID: 1407506870}
   m_Layer: 0
   m_Name: barrier (10)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13008,7 +13118,7 @@ GameObject:
   - component: {fileID: 1410179558}
   m_Layer: 0
   m_Name: barrier (78)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13273,7 +13383,7 @@ GameObject:
   - component: {fileID: 1435197648}
   m_Layer: 0
   m_Name: barrier (61)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13404,7 +13514,7 @@ GameObject:
   - component: {fileID: 1439536258}
   m_Layer: 0
   m_Name: barrier (26)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13535,7 +13645,7 @@ GameObject:
   - component: {fileID: 1476804950}
   m_Layer: 0
   m_Name: barrier (45)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13666,7 +13776,7 @@ GameObject:
   - component: {fileID: 1478510852}
   m_Layer: 0
   m_Name: barrier (90)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13797,7 +13907,7 @@ GameObject:
   - component: {fileID: 1490900440}
   m_Layer: 0
   m_Name: barrier (28)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13928,7 +14038,7 @@ GameObject:
   - component: {fileID: 1492291984}
   m_Layer: 0
   m_Name: barrier (16)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14059,7 +14169,7 @@ GameObject:
   - component: {fileID: 1510675331}
   m_Layer: 0
   m_Name: barrier (115)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14190,7 +14300,7 @@ GameObject:
   - component: {fileID: 1514645457}
   m_Layer: 0
   m_Name: barrier (31)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14321,7 +14431,7 @@ GameObject:
   - component: {fileID: 1524049115}
   m_Layer: 0
   m_Name: barrier (25)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14452,7 +14562,7 @@ GameObject:
   - component: {fileID: 1563545191}
   m_Layer: 0
   m_Name: barrier (101)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14583,7 +14693,7 @@ GameObject:
   - component: {fileID: 1573574935}
   m_Layer: 0
   m_Name: barrier (12)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14714,7 +14824,7 @@ GameObject:
   - component: {fileID: 1588544629}
   m_Layer: 0
   m_Name: barrier (21)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14845,7 +14955,7 @@ GameObject:
   - component: {fileID: 1589038346}
   m_Layer: 0
   m_Name: barrier (9)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15028,7 +15138,7 @@ GameObject:
   - component: {fileID: 1604799156}
   m_Layer: 0
   m_Name: barrier (110)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15159,7 +15269,7 @@ GameObject:
   - component: {fileID: 1605967042}
   m_Layer: 0
   m_Name: barrier (43)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15290,7 +15400,7 @@ GameObject:
   - component: {fileID: 1614836617}
   m_Layer: 0
   m_Name: barrier (46)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15494,7 +15604,7 @@ GameObject:
   - component: {fileID: 1664538200}
   m_Layer: 0
   m_Name: barrier (11)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15625,7 +15735,7 @@ GameObject:
   - component: {fileID: 1667405958}
   m_Layer: 0
   m_Name: barrier (64)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15838,7 +15948,7 @@ GameObject:
   - component: {fileID: 1681799597}
   m_Layer: 0
   m_Name: barrier (24)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15969,7 +16079,7 @@ GameObject:
   - component: {fileID: 1704501989}
   m_Layer: 0
   m_Name: barrier (66)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16100,7 +16210,7 @@ GameObject:
   - component: {fileID: 1707389270}
   m_Layer: 0
   m_Name: barrier (42)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16231,7 +16341,7 @@ GameObject:
   - component: {fileID: 1712906233}
   m_Layer: 0
   m_Name: barrier (33)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16362,7 +16472,7 @@ GameObject:
   - component: {fileID: 1720178141}
   m_Layer: 0
   m_Name: barrier (18)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16493,7 +16603,7 @@ GameObject:
   - component: {fileID: 1743517664}
   m_Layer: 0
   m_Name: barrier (50)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16706,7 +16816,7 @@ GameObject:
   - component: {fileID: 1819543151}
   m_Layer: 0
   m_Name: barrier (60)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16837,7 +16947,7 @@ GameObject:
   - component: {fileID: 1824932392}
   m_Layer: 0
   m_Name: barrier (105)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16968,7 +17078,7 @@ GameObject:
   - component: {fileID: 1879068199}
   m_Layer: 0
   m_Name: barrier (119)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17099,7 +17209,7 @@ GameObject:
   - component: {fileID: 1905693113}
   m_Layer: 0
   m_Name: barrier (79)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17312,7 +17422,7 @@ GameObject:
   - component: {fileID: 1931421797}
   m_Layer: 0
   m_Name: barrier (95)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17443,7 +17553,7 @@ GameObject:
   - component: {fileID: 1949655320}
   m_Layer: 0
   m_Name: barrier (121)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17574,7 +17684,7 @@ GameObject:
   - component: {fileID: 2013365827}
   m_Layer: 0
   m_Name: barrier (107)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17705,7 +17815,7 @@ GameObject:
   - component: {fileID: 2056689073}
   m_Layer: 0
   m_Name: barrier (37)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17836,7 +17946,7 @@ GameObject:
   - component: {fileID: 2077245460}
   m_Layer: 0
   m_Name: barrier (51)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18049,7 +18159,7 @@ GameObject:
   - component: {fileID: 2114334260}
   m_Layer: 0
   m_Name: barrier (20)
-  m_TagString: Untagged
+  m_TagString: Crash
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
