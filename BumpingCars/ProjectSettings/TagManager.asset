@@ -42,3 +42,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Marca de llantas
+    uniqueID: 3454808849
+    locked: 0
+  - name: Background
+    uniqueID: 3841759325
+    locked: 0
