@@ -105,6 +105,31 @@ public class Driver : MonoBehaviour
         carRigidbody2D.velocity = velocidadAdelante + velocidadDerecha * drift;
     }
 
+    float ObtenerVelocidadLateral(){
+        //se obtiene que tan rapido se esta moviendo el carro hacia los lados
+        return Vector2.Dot(transform.right, carRigidbody2D.velocity);
+    }
+
+    public bool FriccionLlantas(out float velocidadLateral, out bool frenado){
+        velocidadLateral = ObtenerVelocidadLateral();
+        frenado = false;
+
+        //Checa si el carro se mueve hacia delante y el jugador frena o esta frenando
+        if(acelerar < 0 && velocidadVsUp > 0){
+            frenado = true;
+            return true;
+        }
+        else{
+            //Checa si hay mucho movimiento hacia los lados o el jugador hace drift
+            if(Mathf.Abs(ObtenerVelocidadLateral()) > 5.5f ){
+                return true;
+            }
+            else{
+                return false;
+            }
+        }
+    }
+
     public void SetVectorEntrada(Vector2 vectorEntrada){
         direccion = vectorEntrada.x;
         acelerar = vectorEntrada.y;
