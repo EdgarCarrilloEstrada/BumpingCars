@@ -110,9 +110,9 @@ public class Driver : MonoBehaviour
         return Vector2.Dot(transform.right, carRigidbody2D.velocity);
     }
 
-    public float obtenerMagnitudVelocidad(){
-        //se obtiene que tan rapido se esta moviendo el carro hacia enfrente
-        return Vector2.Dot(transform.right, carRigidbody2D.velocity);
+    public float obtenerMagnitudVelocidad()
+    {
+        return carRigidbody2D.velocity.magnitude;
     }
 
     public bool FriccionLlantas(out float velocidadLateral, out bool frenado){

@@ -31,6 +31,7 @@ public class SonidosCarro : MonoBehaviour
     {
         ActualizaMotorSonido();
         ActualizaFriccionSonido();
+        
 
     }
 
@@ -69,6 +70,21 @@ public class SonidosCarro : MonoBehaviour
         //Desvanecer el sonido si no estamos haciendo friccion
         else{
             friccionCarroAudio.volume = Mathf.Lerp(friccionCarroAudio.volume, 0, Time.deltaTime * 10);
+        }
+    }
+
+    void OnCollisionEnter2D(Collision2D collision2D){
+        //Obtener la velocidad para la colision
+        
+        float velocidadCollide = collision2D.relativeVelocity.magnitude;
+
+        float volumen = velocidadCollide * 0.1f;
+
+        choqueCarroAudio.pitch = Random.Range(0.95f, 1.05f);
+        choqueCarroAudio.volume = volumen;
+
+        if(!choqueCarroAudio.isPlaying){
+            choqueCarroAudio.Play();
         }
     }
 }
