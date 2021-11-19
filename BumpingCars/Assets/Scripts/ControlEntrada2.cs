@@ -19,7 +19,7 @@ public class ControlEntrada2 : MonoBehaviour
             Vector2 vectorEntrada2 = Vector3.zero;
 
             vectorEntrada2.x = Input.GetAxis("Horizontal2");
-            vectorEntrada2.y = Input.GetAxis("Vertical2")*-1;
+            vectorEntrada2.y = Input.GetAxis("Vertical2");
 
             driver2.SetVectorEntrada(vectorEntrada2);
         //}
