@@ -36,7 +36,6 @@ public class SonidosCarro : MonoBehaviour
     }
 
     void ActualizaMotorSonido(){
-        //
         float velocidadMagnitud = driver.obtenerMagnitudVelocidad();
         
         //Incrementa el volumen del motor con respecto a su velocidad

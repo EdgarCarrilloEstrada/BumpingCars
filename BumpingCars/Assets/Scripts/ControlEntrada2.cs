@@ -15,14 +15,12 @@ public class ControlEntrada2 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //if(Input.GetKey(KeyCode.I) || Input.GetKey(KeyCode.J) || Input.GetKey(KeyCode.K) || Input.GetKey(KeyCode.L)){
-            Vector2 vectorEntrada2 = Vector3.zero;
+        Vector2 vectorEntrada2 = Vector3.zero;
 
-            vectorEntrada2.x = Input.GetAxis("Horizontal2");
-            vectorEntrada2.y = Input.GetAxis("Vertical2");
+        vectorEntrada2.x = Input.GetAxis("Horizontal2");
+        vectorEntrada2.y = Input.GetAxis("Vertical2");
 
-            driver2.SetVectorEntrada(vectorEntrada2);
-        //}
+        driver2.SetVectorEntrada(vectorEntrada2);
     }
 
 }

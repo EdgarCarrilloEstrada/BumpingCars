@@ -10,7 +10,6 @@ public class Vueltas : MonoBehaviour
     int totalCheckpoints = 0;
     int vueltasCompletadas = 0;
     const int completar = 2;
-    float tiempoUltimoCP = 0;
 
     bool terminarCarrera = false;
 
@@ -31,9 +30,6 @@ public class Vueltas : MonoBehaviour
                     numCheckpointPasado = checkPoint.checkpointNum;
 
                     totalCheckpoints++;
-
-                    //Almacena el tiempo en el que cruzo el checkpoint
-                    tiempoUltimoCP = Time.time;
 
                     if(checkPoint.meta){
                         numCheckpointPasado = 0;

@@ -24,6 +24,6 @@ public class PosicionCarro : MonoBehaviour
     }
 
     void CheckpointCruzado(Vueltas vueltasCont){
-        Debug.Log($"Event: El carro {vueltasCont.gameObject.name} paso un checkpoint");
+        Debug.Log($"Evento: El carro {vueltasCont.gameObject.name} paso un checkpoint");
     }
 }
